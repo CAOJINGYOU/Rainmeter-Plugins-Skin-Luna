@@ -8,3 +8,4 @@ Rainmete自用显示农历与股票信息的插件皮肤
 
 直接复制Plugins与Skins到Rainmeter安装目录
 
+或者直接使用Luna_1.0.0.rmskin安装
